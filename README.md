@@ -1,2 +1,5 @@
-# .github
-Poseben repozitorij, ki doda README javnemu profilu organizacije.
+# OSGeo.si
+### Open Source Geospatial Slovenija
+
+Pridruži se nam na Discordu!
+https://discord.gg/WF2fkREm
