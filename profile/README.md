@@ -2,4 +2,4 @@
 ### Open Source Geospatial Slovenija
 
 Pridruži se nam na Discordu!  
-`https://discord.gg/WF2fkREm`
+`https://discord.gg/eU9crVfJfC`
